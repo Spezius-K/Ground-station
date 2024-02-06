@@ -1,0 +1,17 @@
+Client- Klasse Features:
+
+1. client erstellen: Konfiguration aus .ini holen
+2. create database: sicher sein, dass Datenbank erstellt wird
+3. ping(): 
+4. write und write_point Funktion
+5. 
+
+
+2. client schließen: close()
+
+
+Eher:
+1. write und write_point (oder sequence) beschäftigen 
+2. Welche Parameter kann man den Points/Sequences mitgeben?
+3. Funktion erstellen, die Daten in influx reinlädt
+4. Board-> Dashboard-> create new cell
